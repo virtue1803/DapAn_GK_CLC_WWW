@@ -44,7 +44,7 @@
         <button type="submit">Thêm Phòng Ban</button>
     </form>
     <div class="back-button">
-        <a href="index.jsp">Quay lại màn hình chính</a>
+        <a href="http://localhost:8080/test/phongban?action=list">Quay lại danh sách phòng ban</a>
     </div>
 </div>
 <div class="back-button">

@@ -88,7 +88,8 @@
 
     <div class="links">
         <a href="nhanvien?action=list">Danh sách Nhân Viên</a> |
-        <a href="nhanvien?action=addForm">Thêm mới Nhân Viên</a>
+        <a href="nhanvien?action=addForm">Thêm mới Nhân Viên</a>|
+        <a href="phongban?action=list">Danh sách Phòng Ban</a> |
     </div>
 
     <div class="title">
